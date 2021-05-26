@@ -1,4 +1,6 @@
-print('Hello Worlds')
+import numpy as np
+from numpy import random
 
-for letter in "Hello":
-   print(letter)
+x = random.randint(100)
+
+print(x)
