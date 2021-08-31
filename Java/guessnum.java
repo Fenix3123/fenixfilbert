@@ -34,6 +34,7 @@ public class guessnum{
            
       System.out.println("You LOSE!!");
       System.out.println("The number to guess was:" + random_num );
+      scanner.close();
      
    }//main
 
